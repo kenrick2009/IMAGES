@@ -1,0 +1,79 @@
+#imageset1{
+    display:flex;
+    justify-content: center;
+}
+#imageset2{
+    display:flex;
+    justify-content: center;
+}
+.link{
+    float: left;
+}
+#MyCarouselflower{
+    background-color: aqua;
+    
+}
+#MyCarouselmt img {
+    height:300px;
+    margin-top: 35px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+li a:hover {
+  background-color: #111;
+}
+
+
+
+
+.section-style{
+   margin-left: 25px;
+    margin-right: 25px;
+}
+.section-style2{
+   margin-left: 25px;
+    margin-right: 25px;
+}
+img-responsive{
+     justify-content:center;
+}
+#home{
+    text-align: center;
+    background:linear-gradient(  #ff0000 0%, #ff0099 100%);
+}
+h1{
+    font-size: 48px;
+    font-weight: bolder;
+    color: chartreuse;
+}
+#Grid{
+    text-align: center;
+    background: linear-gradient(  #154215 0%, #00ff00 100%);
+}
+.carousel-inner{
+    background-color: red;
+    justify-content: center;
+}
+#Sliding{
+    text-align: center;
+    background: linear-gradient(#0059ff 0% ,#00bedb 100%)
+}
